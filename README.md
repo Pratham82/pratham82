@@ -3,6 +3,6 @@
 
 ### Currently learning React JS  and Web development. 
 
-- ✍️ [blog](https://blog-2020-pratham82.netlify.app/)
+- ✍️ [Blog](https://blog-2020-pratham82.netlify.app/)
 - 📫 [Gmail](mali.prathamesh82@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-mali-20582318a/)
