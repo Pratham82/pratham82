@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Prathamesh
 
-#### I'm an Aspiring Software developer looking out for new opportunities 🗻.
+### I'm an Aspiring Software developer looking out for new opportunities 🗻.
 
-#### I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
+### I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
 
-#### Practicing clean code ✨.
+### Practicing clean code ✨.
 
 ### Connect with me:
 
