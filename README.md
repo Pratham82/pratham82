@@ -6,7 +6,7 @@
 
 ### Practicing clean code ✨.
 
-### Chekout my portfolio [here]('https://portfolio-2020-v3.netlify.app/')
+### Chekout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
 
 ### Connect with me:
 
