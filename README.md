@@ -6,6 +6,10 @@
 
 ### Practicing clean code ✨.
 
+### Tyring to learn everything 😎.
+
+### JS is love.
+
 ### Chekout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
 
 ### Connect with me:
