@@ -8,7 +8,7 @@
 
 ### Currently learning MERN stack.
 
-### <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" /> is love ❤️.
+### JS is love ❤️.
 
 ### Checkout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
 
