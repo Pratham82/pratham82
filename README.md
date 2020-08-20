@@ -6,18 +6,17 @@
 
 ### Practicing clean code ✨.
 
-### Tyring to learn everything 😎.
+### Currently learning MERN stack.
 
-### JS is love.
+### <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" /> &nbsp; is love ❤️.
 
-### Chekout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
+### Checkout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
 
 ### Connect with me:
 
 [<img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/>][website]
 [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][gmail]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-
 
 ### Languages and Tools :
 
