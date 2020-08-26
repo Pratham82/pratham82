@@ -17,6 +17,8 @@
 [<img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/>][website]
 [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][gmail]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
+
 
 ### Languages and Tools :
 
@@ -49,3 +51,4 @@
 [instagram]: https://instagram.com/pratham82
 [linkedin]: https://www.linkedin.com/in/prathamesh-mali-20582318a/
 [gmail]: (mali.prathamesh82@gmail.com)
+[twitter]: (https://twitter.com/Pratham_82)
