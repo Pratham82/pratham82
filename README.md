@@ -36,7 +36,7 @@
 
 <br/>
 
-## Tools :
+### Tools :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/npm.png" />
@@ -56,6 +56,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
+
+### Stats
 
 <a href="#stats">
 <img align="center" alt="Prathamesh's Github Stats" src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=pratham82&show_icons=true&count_private=true" />
