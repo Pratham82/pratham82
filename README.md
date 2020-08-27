@@ -56,16 +56,14 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
+
 <a href="#stats">
 <img align="center" alt="Prathamesh's Github Stats" src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=pratham82&show_icons=true&count_private=true" />
 </a>
 
-<br/>
 <a href="#stats">
 <img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=pratham82&hide=css&layout=compact" />
 </a>
-
-<br/>
 
 [website]: https://blog-2020-pratham82.netlify.app/
 [instagram]: https://instagram.com/pratham82
