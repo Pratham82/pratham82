@@ -71,4 +71,4 @@
 [instagram]: https://instagram.com/pratham82
 [linkedin]: https://www.linkedin.com/in/prathamesh-mali-20582318a/
 [gmail]: (mali.prathamesh82@gmail.com)
-[twitter1]: (https://twitter.com/Pratham_82)
+[twitter1]: https://twitter.com/Pratham_82
