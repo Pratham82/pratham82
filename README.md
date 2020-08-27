@@ -1,16 +1,16 @@
 ## Hi there 👋 I'm Prathamesh
 
-### I'm an Aspiring Software developer looking out for new opportunities 🗻.
+-   I'm an Aspiring Software developer looking out for new opportunities 🗻.
 
-### I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
+-   I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
 
-### Practicing clean code ✨.
+-   Practicing clean code ✨.
 
-### Currently learning MERN stack.
+-   Currently learning MERN stack.
 
-### JS is love ❤️.
+-   JS is love ❤️.
 
-### Checkout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
+-   Checkout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
 
 ### Connect with me:
 
