@@ -15,7 +15,7 @@
 ### Connect with me:
 
 [<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter1]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 
@@ -71,4 +71,4 @@
 [instagram]: https://instagram.com/pratham82
 [linkedin]: https://www.linkedin.com/in/prathamesh-mali-20582318a/
 [gmail]: (mali.prathamesh82@gmail.com)
-[twitter]: (https://twitter.com/Pratham_82)
+[twitter1]: (https://twitter.com/Pratham_82)
