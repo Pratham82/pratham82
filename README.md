@@ -20,7 +20,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter1]
 [<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
 <a href="https://dev.to/pratham82">
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="40" height="40" >
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="35" height="35" >
 </a>
 
 ### Languages & Frameworks:
