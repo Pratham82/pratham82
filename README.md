@@ -10,7 +10,7 @@
 
 -   JS is love ❤️.
 
--   writer at [Dev.to](https://dev.to/pratham82)
+-   Writer at [Dev.to](https://dev.to/pratham82)
 
 -   Checkout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
 
