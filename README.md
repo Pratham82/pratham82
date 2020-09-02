@@ -10,14 +10,18 @@
 
 -   JS is love ❤️.
 
+-   writer at [Dev.to](https://dev.to/pratham82)
+
 -   Checkout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
 
 ### Connect with me:
 
-[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter1]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter1]
+[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
+<a href="https://dev.to/pratham82">
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="40" height="40" >
+</a>
 
 ### Languages & Frameworks:
 
