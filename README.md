@@ -14,6 +14,11 @@
 
 -   Checkout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
 
+-  Code till I die
+
+![Alt Text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
