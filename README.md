@@ -69,6 +69,9 @@
 <img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=pratham82&hide=css&layout=compact" />
 </a>
 
+</br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratham82)
+
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
