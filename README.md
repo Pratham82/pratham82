@@ -6,9 +6,9 @@
 
 -   Practicing clean code ✨.
 
--   Currently learning MERN stack.
+-   Currently learning **MERN** stack.
 
--   JS is love ❤️.
+-   **JS** is love ❤️.
 
 -   I write at [Dev.to](https://dev.to/pratham82)
 
