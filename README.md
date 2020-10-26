@@ -10,9 +10,9 @@
 
 -   **JS** is love ❤️.
 
--   I write at [Dev.to](https://dev.to/pratham82)
+-   I write at **[Dev.to](https://dev.to/pratham82)**
 
--   Checkout my portfolio [here](https://portfolio-2020-v3.netlify.app/)
+-   Checkout my portfolio **[here](https://portfolio-2020-v3.netlify.app/)**
 
 -  Code till I die
 
