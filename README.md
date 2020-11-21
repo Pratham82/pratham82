@@ -17,7 +17,7 @@
 -   Checkout my portfolio **[here](https://portfolio-2020-v3.netlify.app/)**
 
 
--   Current manjaro setup with i3wm **[checkout dotfiles](https://github.com/Pratham82/dotfiles)
+-   Current manjaro setup with i3wm [checkout dotfiles](https://github.com/Pratham82/dotfiles)
 
 ![Setup](https://i.ibb.co/DLdRrPJ/2020-11-21-160740-1921x1079-scrot.png)
  
