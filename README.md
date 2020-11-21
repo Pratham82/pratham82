@@ -10,15 +10,18 @@
 
 -   **JS** is love ❤️.
 
+-   Linux Enthusiast
+
 -   I write at **[Dev.to](https://dev.to/pratham82)**
 
 -   Checkout my portfolio **[here](https://portfolio-2020-v3.netlify.app/)**
 
--  Code till I die
 
+-   Current manjaro setup with i3wm **[checkout dotfiles](https://github.com/Pratham82/dotfiles)
 
- ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
+![Setup](https://i.ibb.co/DLdRrPJ/2020-11-21-160740-1921x1079-scrot.png)
+ 
+![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
 ### Languages & Frameworks:
