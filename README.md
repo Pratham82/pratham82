@@ -16,10 +16,6 @@
 
 -   Checkout my portfolio **[here](https://portfolio-2020-v3.netlify.app/)**
 
-
--   Current manjaro setup with i3wm [checkout dotfiles](https://github.com/Pratham82/dotfiles)
-
-![Setup](https://i.ibb.co/DLdRrPJ/2020-11-21-160740-1921x1079-scrot.png)
  
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
@@ -54,6 +50,8 @@
 
 </br>
 </br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham82&" alt="pratham82" /></p>
 
 
 
