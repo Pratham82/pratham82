@@ -47,8 +47,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham82&" alt="pratham82" /></p>
 </br>
 </br>
-</br>
-</br>
+
 
 
 
