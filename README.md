@@ -44,13 +44,13 @@
 <a href="#stats">
 <img align="right" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=pratham82&hide=css&layout=compact" />
 </a>
-
-</br>
-</br>
-</br>
-</br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham82&" alt="pratham82" /></p>
+</br>
+</br>
+</br>
+</br>
+
+
 
 
 
