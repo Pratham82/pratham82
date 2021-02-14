@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Prathamesh
 
--   I'm an Aspiring Software developer looking out for new opportunities 🗻.
+-   I'm Software developer looking out for new opportunities 🗻.
 
 -   I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
 
