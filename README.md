@@ -8,7 +8,7 @@
 
 -   Currently learning **MERN** stack.
 
--   **JS** is love ❤️.
+-   **ReactJS** is love ❤️.
 
 -   Linux Enthusiast
 
