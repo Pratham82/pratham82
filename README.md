@@ -6,7 +6,7 @@
 
 -   Practicing clean code ✨.
 
--   Currently learning **MERN** stack.
+-   Currently learning **MERN && MEAN** stack.
 
 -   **ReactJS** is love ❤️.
 
