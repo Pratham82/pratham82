@@ -8,7 +8,7 @@
 
 -   Currently learning **MERN && MEAN** stack.
 
--   **ReactJS** is love ❤️.
+-   **ReactJS** is love ❤️
 
 -   Linux Enthusiast
 
