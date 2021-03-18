@@ -22,13 +22,14 @@
 
 ### Languages & Frameworks:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
 <img  align="left" alt="React" width="26px" src="https://img.icons8.com/color/50/000000/nodejs.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
