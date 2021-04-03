@@ -6,11 +6,9 @@
 
 -   Practicing clean code ✨.
 
--   Currently learning **MERN && MEAN** stack.
+-   Currently learning **MEAN** stack and **Docker**.
 
--   **ReactJS** is love ❤️
-
--   Linux Enthusiast
+-   Linux and DevOps Enthusiast
 
 -   I write at **[Dev.to](https://dev.to/pratham82)**
 
