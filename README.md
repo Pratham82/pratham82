@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Prathamesh
 
--   I'm a Software Enginner venturing through various technologies 🗻.
+-   I'm a Software Engineer venturing through various technologies 🗻.
 
 -   I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
 
