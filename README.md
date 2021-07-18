@@ -6,7 +6,8 @@
 
 -   Practicing clean code ✨.
 
--   Currently learning **MEAN** stack and **Docker**.
+<!-- -   Currently learning **MEAN** stack and **Docker**. -->
+- Trying to learn everything
 
 -   Linux and DevOps Enthusiast
 
