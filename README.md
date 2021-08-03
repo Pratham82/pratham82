@@ -4,7 +4,7 @@
 
 -   I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
 
--   Practicing clean code ✨.
+-   Practicing clean code ✨
 
 <!-- -   Currently learning **MEAN** stack and **Docker**. -->
 - Trying to learn everything
