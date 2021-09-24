@@ -4,6 +4,8 @@
 
 -   I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞
 
+-   Proficient in JS 
+
 -   Practicing clean code ✨
 
 <!-- -   Currently learning **MEAN** stack and **Docker**. -->
