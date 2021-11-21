@@ -13,7 +13,7 @@
 
 -   Linux and DevOps Enthusiast
 
--   I write at **[Dev.to](https://dev.to/pratham82)**
+-   I write at **[Dev.to](https://dev.to/pratham82)** occasionally
 
 -   Checkout my portfolio **[here](https://portfolio-2020-v3.netlify.app/)**
 
