@@ -43,25 +43,11 @@
 ### Stats
 
 
-
-<a href="#stats">
-<img align="center" alt="Prathamesh's Github Stats" src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=pratham82&show_icons=true&count_private=true" /></a>
-</br>
-</br>
-
-<a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=pratham82&hide=css&layout=compact" />
-</a>
-</br>
-</br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham82&" alt="pratham82" /></p>
 </br>
 </br>
 
 ![](https://activity-graph.herokuapp.com/graph?username=pratham82&theme=github)
-
-
 
 
 ### Connect with me:
