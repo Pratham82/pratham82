@@ -16,16 +16,8 @@
 
 -   Checkout my portfolio **[here](https://portfolio-2020-v3.netlify.app/)** -->
 
--   I mosty do Frontend(React/Angular/Next.js) 1+yr in the industry.
--   Still trying to understand JS 🥲
+-   I mosty do Frontend(React/Next.js)
 -   Currently learning/working on React Native 🧐
--   Apart from frontend, I spend countless amount of time in ricing my VS code, exploring new frontend framewors, incomplete tutorials.
-
--   Linux Fanboy zone ⚠️
--   Love vim -> neovim -> lunarvim (currently settled for vscode with vim motions 🤐 due to work)
--   Linux exploration: PopOS 19 (Mar 2020) -> Manajaro i3wm(May 2020) -> Arch(June 2020) -> Archcraft(Feb 2021) -> Hackintosh MacOS Catalina (May 2021) [Successfull build](https://github.com/Pratham82/Hackintosh-ASUS_FX503VD) -> PopOS 20(June 2021) -> PopOS 22 (Jan 22)
--   Explored multiple window managers i3wm, openbox,dwm. Sticked to i3wm
--   Made a custom rice on top of Archcraft see the post [here](https://www.reddit.com/r/i3wm/comments/k56obd/my_first_rice/) and checkout the repo [here](https://github.com/Pratham82/dotfiles)
 
 - Here's a link to my portfolio [here](https://prathamesh-mali.netlify.app/)
 - Checkout my other projects and do follow if you like 🥰
