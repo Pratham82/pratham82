@@ -19,7 +19,7 @@
 -   I mosty do Frontend(React/Next.js)
 -   Currently learning/working on React Native 🧐
 
-- Here's a link to my portfolio [here](https://prathamesh-mali.netlify.app/)
+- Here's a link to my portfolio [here](https://pratham82.vercel.app)
 - Checkout my other projects and do follow if you like 🥰
 
 <br/>
