@@ -31,3 +31,12 @@
 </br>
 
 ![](https://activity-graph.herokuapp.com/graph?username=pratham82&theme=github)
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham82&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratham82&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratham82&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratham82&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratham82&theme=nord_dark)
+
