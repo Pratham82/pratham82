@@ -16,21 +16,23 @@
 
 -   Checkout my portfolio **[here](https://portfolio-2020-v3.netlify.app/)** -->
 
--   I mosty do Frontend(React/Next.js)
--   Currently learning/working on React Native 🧐
-
-- Here's a link to my portfolio [here](https://pratham82.vercel.app)
-- Checkout my other projects and do follow if you like 🥰
+-   I mosty do Frontend(React/Next.js/React Native)
+-   Looking for new opportunities,   ⛰️
+-   I ❤️ building new things and helping others 🤝
+-   Learning something new everyday 🌞
+-   Here's a link to my portfolio [here](https://pratham82.vercel.app)
+-   Checkout my other projects and do follow if you like 🥰
+-   Hire me [linkedIN](https://www.linkedin.com/in/prathameshmali/)
 
 <br/>
 
 
 ### Stats
-
+<!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham82&" alt="pratham82" /></p>
 </br>
 
-![](https://activity-graph.herokuapp.com/graph?username=pratham82&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=pratham82&theme=github)  -->
 
 
 
